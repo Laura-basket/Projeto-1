@@ -1,0 +1,28 @@
+/* Regras de Estilização */
+body {
+    background-color: #f0f4f8;
+}
+
+h1, h2 {
+    color: #1a365d;
+    font-family: Arial, sans-serif;
+}
+
+.destaque {
+    background-color: #fff3cd;
+    margin: 15px;
+    padding: 10px;
+	border-radius: 5px;
+}
+
+/* 
+==================================================
+Mecanismo de Avaliação Metacognitiva
+==================================================
+1. Desafio Técnico: A regra CSS mais difícil de aplicar foi a sintaxe correta das propriedades (como background-color), principalmente de não me esquecer dos pontos e das vírgulas (;) e as chavetas ({}), mas consegui ultrapassar e testei no browser.
+
+2. Correção de Sintaxe: O meu erro mais comum durante os testes foi a inclusão de espaços indevidos nos atributos (como src= "...") e erros nos nomes dos ficheiros de imagem, corrigidos ao verificar a pasta local e o Notepad++.
+
+3. Autoria: O atributo src (source) serve para indicar ao navegador o caminho certo e o nome do ficheiro da imagem que deve ser carregado e colocado na página web.
+==================================================
+*/
